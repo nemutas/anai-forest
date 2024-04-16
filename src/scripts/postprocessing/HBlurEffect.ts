@@ -17,7 +17,7 @@ export class HBlurEffect extends FrameBuffer {
       glslVersion: '300 es',
     })
 
-    super(renderer, material)
+    super(renderer, material, { dpr: 1 })
     this.uniforms.uResolution.value = [this.size.width, this.size.height]
   }
 
