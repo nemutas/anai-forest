@@ -1,7 +1,7 @@
 # About
 
-GBufferを使用したLightShaft表現
+inspired by https://anaiwood.com/en menu.
 
 https://nemutas.github.io/anai-forest/
 
-<img src='https://github.com/nemutas/anai-forest/assets/46724121/d40bce53-f8ef-437a-ba0d-d5d4079e58ad' alt='' width='700' />
+<img src='https://github.com/nemutas/anai-forest/assets/46724121/60d24120-366a-401d-a495-ffb0e6baf3fe' alt='' width='700' />
